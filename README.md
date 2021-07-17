@@ -1,1 +1,1 @@
-# FindMultipeaksAlgorithm
+# FindMultiplePeaksAlgorithm
